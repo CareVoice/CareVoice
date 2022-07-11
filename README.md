@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Linda
+- 👀 I’m interested in reading,music and cooking
+- 🌱 I’m currently hiring data science engineering,python,machine learning for the company
+- 💞️ I’m looking to learn from professional engineer and hope have chance to cooperate on it
+- 📫 You can reach me out via here or via email lindazhang898@gmail.com
